@@ -3,8 +3,7 @@
 
 <div align="center">
   <h3 style="color:#FF0000;"><code>Jesus is the way, the truth, and the life</code></h3>
-  <p style="color:#E1E9F0;">Passionate about coding, creativity, and walking by faith.</p>
-  
+
   <hr/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=murilothales&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&title_color=FF0000&icon_color=FF0000&text_color=E1E9F0&bg_color=00000000&hide_border=true" height="150" alt="stats graph" />
