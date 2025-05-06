@@ -17,8 +17,9 @@
 
 ---
 
-### 🙋 About Me
-
-Hi there! I'm 18 years old and passionate about creativity and technology.  
-I love editing, gaming, programming, and most of all — following Jesus.  
-Currently, I'm learning **HTML** and **CSS**, and I'm excited to keep growing as a developer!
+<div align="center">
+  <h2 style="color:#FF0000; font-size: 26px;">🙋 About Me</h2>
+  <p style="font-size: 18px; color:#E1E9F0; max-width: 600px;">
+    I'm an 18-year-old enthusiast of technology and creativity. I have a deep interest in video editing, gaming, and programming, and I am passionate about my faith in Jesus. Currently, I'm focused on learning <strong>HTML</strong> and <strong>CSS</strong> as I build a strong foundation in web development.
+  </p>
+</div>
