@@ -1,4 +1,4 @@
-  <img src="https://github.com/user-attachments/assets/1d543f47-ae99-4ec6-837f-c362af0a3473" alt="Animated Gif" width="600" style="border-radius: 12px;"/>
+  <img src="https://github.com/user-attachments/assets/1ab086eb-8ece-4414-9b69-8abce01e1161" alt="Animated Gif" width="600" style="border-radius: 12px;"/>
 </div>
 
 <div align="center">
