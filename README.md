@@ -8,7 +8,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Olukyr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&title_color=FF0000&icon_color=FF0000&text_color=E1E9F0&bg_color=00000000&hide_border=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilothales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&title_color=FF0000&text_color=E1E9F0&bg_color=00000000&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olukyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&title_color=FF0000&text_color=E1E9F0&bg_color=00000000&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
